@@ -1,0 +1,2 @@
+[console_scripts]
+document-intelligence-server = document_intelligence_server.server:app.run

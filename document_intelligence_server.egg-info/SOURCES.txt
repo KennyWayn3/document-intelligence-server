@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+document_intelligence_server.egg-info/PKG-INFO
+document_intelligence_server.egg-info/SOURCES.txt
+document_intelligence_server.egg-info/dependency_links.txt
+document_intelligence_server.egg-info/entry_points.txt
+document_intelligence_server.egg-info/requires.txt
+document_intelligence_server.egg-info/top_level.txt

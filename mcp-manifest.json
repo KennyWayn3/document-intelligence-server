@@ -1,0 +1,25 @@
+{
+  "name": "document-intelligence-server",
+  "description": "MCP server for intelligent document processing \u2014 extract, classify, summarize PDFs/Docs/Images using vision LLMs",
+  "tools": [
+    {
+      "name": "example_tool",
+      "description": "Example",
+      "parameters": [
+        {
+          "name": "input",
+          "type": "str",
+          "description": "Input"
+        }
+      ]
+    }
+  ],
+  "install_command": "uvx document-intelligence-server",
+  "pip_install": "document-intelligence-server",
+  "keywords": [
+    "mcp",
+    "document-processing",
+    "vision-llm"
+  ],
+  "price_usd": 49
+}
